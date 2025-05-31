@@ -11,4 +11,5 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
-          
+
+![Snake animation](https://github.com/joaoribeiro74/joaoribeiro74/blob/output/github-contribution-grid-snake.svg)
