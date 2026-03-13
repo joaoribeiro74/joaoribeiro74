@@ -11,7 +11,3 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="React-Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/joaoribeiro74/joaoribeiro74/output/snake.svg" alt="Snake animation" />
-</div>
